@@ -1,0 +1,15 @@
+D:\McMaster\Fall 2021\Parallel Programming\project\bin\Debug\net6.0\project.exe
+D:\McMaster\Fall 2021\Parallel Programming\project\bin\Debug\net6.0\project.deps.json
+D:\McMaster\Fall 2021\Parallel Programming\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\McMaster\Fall 2021\Parallel Programming\project\bin\Debug\net6.0\project.dll
+D:\McMaster\Fall 2021\Parallel Programming\project\bin\Debug\net6.0\ref\project.dll
+D:\McMaster\Fall 2021\Parallel Programming\project\bin\Debug\net6.0\project.pdb
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.dll
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\ref\project.dll
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.pdb
+D:\McMaster\Fall 2021\Parallel Programming\project\obj\Debug\net6.0\project.genruntimeconfig.cache
